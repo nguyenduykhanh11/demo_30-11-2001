@@ -1,4 +1,4 @@
-package com.example.dialog_alertdialog
+package com.example.communicate_activity_fragment
 
 import org.junit.Test
 

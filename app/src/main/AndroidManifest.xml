@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.dialog_alertdialog">
+    package="com.example.communicate_activity_fragment">
 
     <application
         android:allowBackup="true"
@@ -11,14 +11,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Dialog_AlertDialog"
+        android:theme="@style/Theme.Communicate_Activity_Fragment"
         tools:targetApi="31">
         <activity
-            android:name=".RecyclerViewActivity"
+            android:name=".SecondActivity"
             android:exported="false" />
-        <activity
-            android:name=".ListGirdViewActivity"
-            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

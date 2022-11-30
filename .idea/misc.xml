@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/TrainingAndroid/Dialog_AlertDialog/app/src/main/res/layout/activity_list_grid_view.xml" value="0.10104166666666667" />
-        <entry key="..\:/TrainingAndroid/Dialog_AlertDialog/app/src/main/res/layout/activity_main.xml" value="0.228125" />
-        <entry key="..\:/TrainingAndroid/Dialog_AlertDialog/app/src/main/res/layout/activity_recycler_view.xml" value="0.22826086956521738" />
-        <entry key="..\:/TrainingAndroid/Dialog_AlertDialog/app/src/main/res/layout/item_gird_view.xml" value="0.10104166666666667" />
+        <entry key="..\:/TrainingAndroid/Communicate_Activity_Fragment/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/TrainingAndroid/Communicate_Activity_Fragment/app/src/main/res/layout/activity_second.xml" value="0.22826086956521738" />
+        <entry key="..\:/TrainingAndroid/Communicate_Activity_Fragment/app/src/main/res/layout/fragment_first.xml" value="0.22826086956521738" />
+        <entry key="..\:/TrainingAndroid/Communicate_Activity_Fragment/app/src/main/res/layout/fragment_secondragment.xml" value="0.228125" />
       </map>
     </option>
   </component>

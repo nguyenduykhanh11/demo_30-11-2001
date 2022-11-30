@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">Dialog_AlertDialog</string>
-    <string name="dialog">Alert Dialog</string>
-    <string name="to_list_grid_view">to List,Grid View</string>
-    <string name="girdview">GirdView:</string>
-    <string name="kh_nh">khánh</string>
-    <string name="list_view">List View:</string>
-    <string name="to_recycle_view">To Recycle View</string>
+    <string name="app_name">Communicate_Activity_Fragment</string>
+    <string name="nh_p_d_li_u">Nhập dữ liệu</string>
+    <string name="to_activity">To Activity</string>
+    <string name="to_fragment">To Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment">Fragment</string>
+    <string name="input_data_from_fragment">Input data from Fragment</string>
+    <string name="input_data_form_activity">Input data form Activity</string>
+    <string name="second_activity">Second Activity</string>
 </resources>

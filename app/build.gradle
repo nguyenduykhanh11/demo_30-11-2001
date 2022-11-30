@@ -1,13 +1,14 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
 }
 
 android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.dialog_alertdialog"
+        applicationId "com.example.communicate_activity_fragment"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -43,4 +44,9 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.0'
+
+    //fragment
+    def fragment_version = "1.5.4"
+    implementation("androidx.fragment:fragment-ktx:$fragment_version")
+
 }

@@ -1,4 +1,4 @@
-package com.example.dialog_alertdialog
+package com.example.communicate_activity_fragment
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.dialog_alertdialog", appContext.packageName)
+        assertEquals("com.example.communicate_activity_fragment", appContext.packageName)
     }
 }
