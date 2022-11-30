@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dialog_AlertDialog</string>
+    <string name="dialog">Alert Dialog</string>
+    <string name="to_list_grid_view">to List,Grid View</string>
+    <string name="girdview">GirdView:</string>
+    <string name="kh_nh">khánh</string>
+    <string name="list_view">List View:</string>
+    <string name="to_recycle_view">To Recycle View</string>
+</resources>
